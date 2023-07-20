@@ -51,12 +51,12 @@ class ForYou extends StatelessWidget {
                       Text(Title,
                           style: TextStyle(
                             fontSize: 18,
-                            fontWeight: FontWeight.w900,
+                            fontWeight: FontWeight.w400,
                           )),
                       Text(Desc,
                           style: TextStyle(
                             fontSize: 15,
-                            fontWeight: FontWeight.w600,
+                            fontWeight: FontWeight.w400,
                           )),
                     ],
                   )
